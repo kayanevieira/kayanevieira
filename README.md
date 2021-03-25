@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kayanevieira
-- 👀 I’m interested in fullstack :)
-- 🌱 I’m currently learning react
+- 👀 I’m interested in fullstack development :)
+- 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: kayanevb@hotmail.com
 
